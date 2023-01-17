@@ -1,1 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@300&display=swap');
+
+.cliffs-image {
+    height: 15rem;
+    width: 100%;
+    margin: 0.2rem;
+    background: url(../images/keel.jpeg);
+    margin: auto;
+
+    position: relative;
+
+}
+
+.text {
+
+    color: rgb(1, 24, 42);
+    font-size: 4rem;
+    font-family: Lobster, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 35%;
+    left: 25%;
+
+}
