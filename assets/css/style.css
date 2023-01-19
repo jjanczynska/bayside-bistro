@@ -44,6 +44,7 @@ body {
     font-size: 150%;
     letter-spacing: 0.25rem;
     list-style-type: none;
+   
 
 }
 
@@ -55,4 +56,29 @@ body {
 
 .container a:hover {
     color: rgb(255, 183, 3);
+}
+
+#box {
+    display: flex;
+
+}
+
+.restaurant-img {
+    background-image: url(../images/bistro.jpg);
+    background-repeat: no-repeat;
+    height: 30rem;
+    width: 100%;
+    margin-left: 2rem;
+    align-items: flex-start;
+}
+
+.description {
+    font-family: inherit;
+    color: inherit;
+    font-size: 2rem;
+
+    align-items: flex-end;
+
+    margin-right: 2rem;
+    width: 100%;
 }
