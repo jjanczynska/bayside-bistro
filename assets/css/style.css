@@ -60,7 +60,7 @@ body {
 
 #box {
     display: flex;
-
+    height: 15rem;
 }
 
 .restaurant-img {
@@ -81,5 +81,13 @@ body {
     flex-wrap: wrap;
 
     margin-right: 2rem;
+    width: 100%;
+}
+
+#open {
+    margin: 3rem 0 0 3rem;
+    background-color: (rgb 2, 48, 71);
+    border: 1rem;
+    height: 5rem;
     width: 100%;
 }
