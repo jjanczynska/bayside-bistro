@@ -85,9 +85,11 @@ body {
 }
 
 #open {
-    margin: 3rem 0 0 3rem;
-    background-color: (rgb 2, 48, 71);
-    border: 1rem;
-    height: 5rem;
-    width: 100%;
+   display: flex;
+   justify-content: center;
+   color: rgb(255, 183, 3);
+   font: bolder;
+   background-color: rgb(1, 24, 42);
+   height: fit-content;
+   letter-spacing: 0.2rem;
 }
