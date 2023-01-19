@@ -12,6 +12,7 @@ body {
     color: rgb(28, 74, 109);
 }
 
+/* header elements*/
 
 .cliffs-image {
     height: 15rem;
@@ -35,6 +36,8 @@ body {
 
 }
 
+/* Navigation*/
+
 .container {
     display: flex;
     justify-content: space-between;
@@ -57,6 +60,8 @@ body {
 .container a:hover {
     color: rgb(255, 183, 3);
 }
+
+/* About us section*/
 
 #box {
     display: flex;
@@ -84,7 +89,9 @@ body {
     width: 100%;
 }
 
-#open {
+/*contact, location, opening times section*/
+
+.open {
    display: flex;
    justify-content: center;
    color: rgb(255, 183, 3);
@@ -94,7 +101,7 @@ body {
    letter-spacing: 0.2rem;
 }
 
-#open :hover {
+.open :hover {
     background-color: rgb(255, 183, 3);
     color: rgb(1, 24, 42);
 }
