@@ -6,6 +6,13 @@
     border: none;
 }
 
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    color: rgb(28, 74, 109);
+}
+
+
 .cliffs-image {
     height: 15rem;
     width: 100%;
@@ -25,5 +32,24 @@
     position: absolute;
     top: 35%;
     left: 25%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3rem 10rem;
+
+    font-size: 150%;
+    letter-spacing: 0.25rem;
+    list-style-type: none;
+
+}
+
+.container a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
 
 }
