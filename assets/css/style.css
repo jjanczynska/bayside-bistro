@@ -49,7 +49,10 @@ body {
 
 .container a {
     text-decoration: none;
-    color: inherit;
     font-weight: bold;
+    color: inherit;
+}
 
+.container a:hover {
+    color: rgb(255, 183, 3);
 }
