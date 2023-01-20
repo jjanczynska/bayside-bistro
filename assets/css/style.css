@@ -110,3 +110,10 @@ body {
     background-color: rgb(255, 183, 3);
     color: rgb(1, 24, 42);
 }
+
+/*google map location*/
+
+#map {
+    width: 100%;
+    height: 10rem;
+}
