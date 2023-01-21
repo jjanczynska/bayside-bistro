@@ -34,7 +34,7 @@ body {
     text-align: center;
     padding-top: 5rem;
     position: absolute;
-   
+
 
 }
 
@@ -88,7 +88,7 @@ body {
     font-size: 2rem;
 
     align-items: center;
- 
+
 
     margin-right: 2rem;
     width: 100%;
@@ -151,17 +151,17 @@ footer {
 @media screen and (max-width: 1200px) {
 
     #box {
-      display: flex;
-      max-width: fit-content;
+        display: flex;
+        max-width: fit-content;
     }
 
     .restaurant-img {
-       flex: 0 0 50vh;
-       flex: 1;
-       max-width: auto;
-       min-height: max-content;
-       margin-left: auto;
-     
+        flex: 0 0 50vh;
+        flex: 1;
+        max-width: auto;
+        min-height: max-content;
+        margin-left: auto;
+
     }
 
     .description {
@@ -169,7 +169,7 @@ footer {
         flex: 1;
         flex-wrap: wrap;
         max-width: 50%;
-      
+
         min-height: max-content;
 
         padding-left: 2rem;
@@ -187,8 +187,16 @@ footer {
         height: 50%;
 
         text-align: center;
-       padding-left: 15rem;
-       padding-top: 2rem;
+        padding-left: 15rem;
+        padding-top: 2rem;
     }
 
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 3rem 10rem;
+
+        font-size: 100%;
+    }
 }
