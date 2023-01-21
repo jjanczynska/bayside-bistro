@@ -118,7 +118,7 @@ body {
     height: 10rem;
 }
 
-/* social media links and footer
+/* social media links and footer */
 
 footer {
     width: 100%;
@@ -137,4 +137,15 @@ footer > span {
     font-weight: 400;
     font-size: 3rem;
     padding-left: 1rem;
-}*/
+}
+
+footer > a {
+    text-decoration: none;
+    display: inline;
+}
+
+footer > a:hover {
+    background-color: rgb(28, 74, 109);
+    color: rgb(255, 183, 3);
+
+}
