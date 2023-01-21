@@ -200,3 +200,53 @@ footer {
         font-size: 100%;
     }
 }
+
+/* For small screen sizes below 800px width */
+@media screen and (max-width: 800px) {
+
+    .cliffs-image {
+        height: 10rem;
+        width: 80rem;
+    }
+
+    .text {
+       
+        font-size: 3rem;
+        padding-left: 8rem;
+       }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+        width: auto;
+        
+        font-size: 80%;
+    }
+
+    .box {
+        justify-content: center;
+    }
+
+    .restaurant-img {
+        flex: 0 0 50vh;
+        flex: 1;
+        max-width: auto;
+        min-height: max-content;
+       padding-left: 5rem;
+
+    }
+
+    .description {
+        flex: 0 0 50vh;
+        flex: 1;
+
+        min-height: max-content;
+
+        padding-right: 2rem;
+
+        font-size: 150%;
+    }
+
+}
