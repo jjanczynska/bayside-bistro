@@ -31,9 +31,10 @@ body {
 
     width: 100%;
     height: 15rem;
+    text-align: center;
+    padding-top: 5rem;
     position: absolute;
-    top: 35%;
-    left: 25%;
+   
 
 }
 
@@ -175,4 +176,19 @@ footer {
 
         font-size: 150%;
     }
+}
+
+/* For medium screen sizes below 950px width */
+@media screen and (max-width: 950px) {
+
+    .text {
+
+        width: 50%;
+        height: 50%;
+
+        text-align: center;
+       padding-left: 15rem;
+       padding-top: 2rem;
+    }
+
 }
