@@ -18,6 +18,8 @@ body {
     height: 15rem;
     width: 100%;
     background: url(../images/keel.jpeg);
+    background-size: auto;
+    background-repeat: no-repeat;
     position: relative;
 }
 
@@ -73,6 +75,7 @@ body {
 .restaurant-img {
     display: flex;
     background-image: url(../images/bistro.jpg);
+    background-size: contain;
     background-repeat: no-repeat;
     height: 30rem;
     width: 100%;
@@ -146,9 +149,10 @@ footer {
 }
 
 /*media queries*/
+
 /* for larger to medium screen size from 1200px wide and down*/
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width:1200px) {
 
     #box {
         display: flex;
@@ -179,7 +183,7 @@ footer {
 }
 
 /* For medium screen sizes below 950px width */
-@media screen and (max-width: 950px) {
+@media screen and (max-width:950px) {
 
     .text {
 
@@ -199,30 +203,39 @@ footer {
 
         font-size: 100%;
     }
+
+    .container h2 {
+
+        padding-right: 2rem;
+    }
 }
 
 /* For small screen sizes below 800px width */
-@media screen and (max-width: 800px) {
+@media screen and (max-width:800px) {
 
     .cliffs-image {
         height: 10rem;
-        width: 80rem;
+        width: auto;
     }
 
     .text {
-       
+
         font-size: 3rem;
+        text-align: center;
         padding-left: 8rem;
-       }
+    }
 
     .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        
+
         width: auto;
-        
-        font-size: 80%;
+        height: auto;
+
+        font-size: 100%;
+
+    }
+
+    .container h2 {
+        padding-right: 2rem;
     }
 
     .box {
@@ -230,11 +243,13 @@ footer {
     }
 
     .restaurant-img {
-        flex: 0 0 50vh;
+        /* flex: 0 0 50vh;
         flex: 1;
         max-width: auto;
         min-height: max-content;
-       padding-left: 5rem;
+       padding-left: 5rem;*/
+        display: none;
+
 
     }
 
@@ -242,11 +257,44 @@ footer {
         flex: 0 0 50vh;
         flex: 1;
 
+        max-width: fit-content;
+
         min-height: max-content;
 
         padding-right: 2rem;
 
         font-size: 150%;
+    }
+}
+
+/* For small screen sizes below 600px width */
+@media screen and (max-width:600px) {
+
+    .cliffs-image {
+        width: 170%;
+    }
+
+    .description {
+
+        width: fit-content;
+        padding-bottom: 1rem;
+        overflow: auto;
+    }
+
+    .box-details div {
+
+        max-width: fit-content;
+        height: 12.5rem;
+    }
+
+    #map {
+        width: 170%;
+    }
+
+    footer {
+
+        width: 170%;
+        padding-top: 2rem;
     }
 
 }
