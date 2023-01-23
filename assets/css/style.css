@@ -85,31 +85,40 @@ body {
     font-family: inherit;
     color: inherit;
     font-size: 2rem;
-    
+
     padding: 2rem 0;
     width: 100%;
 }
 
 /*contact, location, opening times section*/
 
+.lower {
+    width: 100%;
+    height: auto;
+}
+
 .box-details {
     display: flex;
     justify-content: space-between;
 }
 
-.box-details div {
-    width: 100%;
-    padding: 0.3rem;
-    color: rgb(255, 183, 3);
-    font: bolder;
-    background-color: rgb(1, 24, 42);
-    height: 9rem;
-    letter-spacing: 0.2rem;
-}
-
 .box-details :hover {
     background-color: rgb(255, 183, 3);
     color: rgb(1, 24, 42);
+}
+
+.info {
+    padding: 1rem;
+    width: 100%;
+    color: rgb(255, 183, 3);
+    height: auto;
+    letter-spacing: 0.2rem;
+}
+
+.info a {
+
+    color: rgb(255, 183, 3);
+    text-decoration: none;
 }
 
 /*google map location*/
