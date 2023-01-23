@@ -222,31 +222,18 @@ footer {
 /* For small screen sizes below 600px width */
 @media screen and (max-width:600px) {
 
-    .cliffs-image {
-        width: 170%;
+    .box-details  {
+        display: inline-block;
+        width: 93%;
+     }
+    
     }
 
-    .description {
+    /* For small screen sizes below 345px width */
+@media screen and (max-width:345px) {
 
-        width: fit-content;
-        padding-bottom: 1rem;
-        overflow: auto;
+    .box-details {
+        display: inline-block;
+        width: 90%;
     }
-
-    .box-details div {
-
-        max-width: fit-content;
-        height: 12.5rem;
-    }
-
-    #map {
-        width: 170%;
-    }
-
-    footer {
-
-        width: 170%;
-        padding-top: 2rem;
-    }
-
 }
