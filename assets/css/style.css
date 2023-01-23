@@ -53,8 +53,6 @@ body {
     font-size: 150%;
     letter-spacing: 0.25rem;
     list-style-type: none;
-
-
 }
 
 .container a {
@@ -158,7 +156,7 @@ footer {
         max-width: fit-content;
     }
 
-    .restaurant-img {
+    .main-img {
         flex: 0 0 50vh;
         flex: 1;
         max-width: auto;
@@ -166,45 +164,20 @@ footer {
         margin-left: auto;
 
     }
-
-    .description {
-        flex: 0 0 75vh;
-        flex: 1;
-        flex-wrap: wrap;
-        max-width: 50%;
-
-        min-height: max-content;
-
-        padding-left: 2rem;
-
-        font-size: 150%;
-    }
 }
 
 /* For medium screen sizes below 950px width */
 @media screen and (max-width:950px) {
 
     .text {
-
-        width: 50%;
-        height: 50%;
-
-        text-align: center;
-        padding-left: 15rem;
         padding-top: 2rem;
     }
 
     .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: 3rem 10rem;
-
-        font-size: 100%;
+       font-size: 90%;
     }
 
     .container h2 {
-
         padding-right: 2rem;
     }
 }
