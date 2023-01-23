@@ -191,19 +191,14 @@ footer {
     }
 
     .text {
-
         font-size: 3rem;
         text-align: center;
-        padding-left: 8rem;
     }
 
     .container {
-
         width: auto;
         height: auto;
-
         font-size: 100%;
-
     }
 
     .container h2 {
@@ -214,27 +209,12 @@ footer {
         justify-content: center;
     }
 
-    .restaurant-img {
-        /* flex: 0 0 50vh;
-        flex: 1;
-        max-width: auto;
-        min-height: max-content;
-       padding-left: 5rem;*/
-        display: none;
-
-
-    }
-
     .description {
         flex: 0 0 50vh;
         flex: 1;
-
         max-width: fit-content;
-
         min-height: max-content;
-
         padding-right: 2rem;
-
         font-size: 150%;
     }
 }
