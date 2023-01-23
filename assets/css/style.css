@@ -82,9 +82,6 @@ body {
 
 .description {
     display: inline-block;
-
-    font-family: inherit;
-    color: inherit;
     font-size: 2rem;
 
     padding: 2rem 0;
@@ -158,7 +155,7 @@ footer {
         max-width: fit-content;
     }
 
-    .main-img {
+    .bistro-img {
         flex: 0 0 50vh;
         flex: 1;
         max-width: auto;
@@ -226,10 +223,20 @@ footer {
 
     .box-details  {
         display: inline-block;
-        width: 93%;
+        width: 94%;
      }
     
     }
+
+    /*For small screen sizes below 450px*/
+
+    @media screen and (max-width:450px) {
+        .box-details {
+            display: inline-block;
+            width: 93%;
+        }
+    }
+      
 
     /* For small screen sizes below 345px width */
 @media screen and (max-width:345px) {
