@@ -237,6 +237,16 @@ footer {
         }
     }
       
+    /*For small screen sizes below 395px*/
+
+    @media screen and (max-width:395px) {
+
+        .box-details {
+            display: inline-block;
+            width: 92%;
+        }
+      }
+      
 
     /* For small screen sizes below 345px width */
 @media screen and (max-width:345px) {
