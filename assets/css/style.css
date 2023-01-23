@@ -14,7 +14,7 @@ body {
 
 /* header elements*/
 
-.cliffs-image {
+.main-image {
     height: 15rem;
     width: 100%;
     background: url(../images/keel.jpeg);
@@ -67,33 +67,26 @@ body {
 
 /* About us section*/
 
-#box {
-    display: flex;
-    height: 15rem;
+.main-img {
+   width: 100%;
+   height: auto;
 }
 
-.restaurant-img {
-    display: flex;
-    background-image: url(../images/bistro.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 30rem;
+.main-image img {
     width: 100%;
-    margin-left: 2rem;
-    align-items: flex-start;
+    height: auto;
+    margin: 0 auto;
+    display: inline-block;
 }
 
 .description {
-    display: flex;
+    display: inline-block;
 
     font-family: inherit;
     color: inherit;
     font-size: 2rem;
-
-    align-items: center;
-
-
-    margin-right: 2rem;
+    
+    padding: 2rem 0;
     width: 100%;
 }
 
