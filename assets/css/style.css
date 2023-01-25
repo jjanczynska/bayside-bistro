@@ -122,6 +122,24 @@ body {
     text-decoration: none;
 }
 
+/* menu.html*/
+
+div {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#center {
+    margin: auto;
+    text-align: center;
+}
+
+div > h1 {
+    
+    font-family: Lobster, sans-serif;
+    font-size: 5rem;
+    
+}
 
 
 /* social media links and footer */
