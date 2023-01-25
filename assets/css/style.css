@@ -124,21 +124,23 @@ body {
 
 /* menu.html*/
 
-div {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-}
-
 #center {
     margin: auto;
     text-align: center;
 }
 
+div {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 div > h1 {
-    
     font-family: Lobster, sans-serif;
     font-size: 5rem;
-    
+}
+
+h2 {
+    font-size: 3rem;
 }
 
 
