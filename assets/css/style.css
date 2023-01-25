@@ -141,6 +141,15 @@ h2 {
     font-size: 3rem;
 }
 
+/*get-in-touch.html*/
+
+#centered { 
+    margin: auto;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 
 /* social media links and footer */
 
