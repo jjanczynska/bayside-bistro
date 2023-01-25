@@ -127,14 +127,12 @@ body {
 #center {
     margin: auto;
     text-align: center;
-}
-
-div {
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
 
-div > h1 {
+
+#center h1 {
     font-family: Lobster, sans-serif;
     font-size: 5rem;
 }
