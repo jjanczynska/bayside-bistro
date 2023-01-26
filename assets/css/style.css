@@ -68,18 +68,18 @@ body {
 
 /* About us section*/
 
-.bistro-img {
+.bistro-image {
    width: 100%;
    height: auto;
    
 }
 
-.bistro-img img {
+.bistro-image img {
     width: 100%;
     height: auto;
     margin: 0 auto;
     display: inline-block;
-    /*object-fit: cover;*/
+    
 }
 
 .description {
