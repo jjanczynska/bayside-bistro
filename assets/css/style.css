@@ -152,6 +152,11 @@ h2 {
     background-color: rgb(80, 124, 124);
 }
 
+input[type=text]
+input[type=email] {
+    border: 5rem red;
+}
+
 .button {
     background-color: rgb(1, 24, 42);
     color: rgb(255, 183, 3);
