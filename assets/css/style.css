@@ -149,10 +149,13 @@ h2 {
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
-/*
-.name .email {
-    border-color: black;
-}*/
+
+.button {
+    background-color: rgb(28, 74, 109);
+    color: rgb(255, 183, 3);
+    font-size: 2rem;
+    border-radius: 2rem;
+}
 
 
 
