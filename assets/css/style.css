@@ -218,7 +218,7 @@ footer {
     }
 
     .bistro-image {
-        max-width: auto;
+        max-width: 100%;
         min-height: max-content;
         margin-left: auto;
         margin-right: auto;
