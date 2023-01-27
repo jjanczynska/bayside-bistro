@@ -137,6 +137,11 @@ footer {
 
 /* menu.html*/
 
+#back-image {
+    background-image: url(../images/backpic.jpg);
+    background-repeat: no-repeat;
+}
+
 #center {
     margin: auto;
     text-align: center;
