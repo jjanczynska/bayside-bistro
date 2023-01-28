@@ -21,15 +21,6 @@ body {
 
 /* header elements*/
 
-/*.main-image {
-    height: 15rem;
-    width: 100%;
-    background: url(../images/keel.jpeg);
-    background-size: auto;
-    background-repeat: no-repeat;
-    position: relative;
-}*/
-
 header {
     background-color: rgb(28, 74, 109);
     height: 15rem;
@@ -37,13 +28,11 @@ header {
 }
 
 .text {
-
     color: whitesmoke;
     font-size: 4rem;
     font-family: Lobster, sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.5rem;
-
     width: 100%;
     text-align: center;
     padding-top: 5rem;
@@ -56,8 +45,7 @@ header {
     justify-content: space-between;
     background-color: whitesmoke;
     text-align: center;
-    font-size: 150%;
-    /*letter-spacing: 0.25rem;*/
+    font-size: 3rem;
     list-style-type: none;
     width: 100%;
     height: auto;
@@ -71,7 +59,6 @@ header {
 
 .container a:hover {
     color: rgb(255, 183, 3);
-    background-color: rgb(1, 24, 42);
 }
 
 /* About us section*/
@@ -229,10 +216,10 @@ footer {
     }
 
     .container {
-       font-size: 90%;
+       font-size: 3.5rem;
     }
 
-    .container h2 {
+    .container a {
         padding-right: 2rem;
     }
 }
@@ -253,10 +240,10 @@ footer {
     .container {
         width: auto;
         height: auto;
-        font-size: 80%;
+        font-size: 3rem;
     }
 
-    .container h2 {
+    .container a {
         padding-right: 2rem;
     }
 
@@ -275,19 +262,37 @@ footer {
 /* For small screen sizes below 600px width */
 @media screen and (max-width:600px) {
 
+    .container {
+        width: auto;
+        height: auto;
+        font-size: 2rem;
+    }
+
     .box-details  {
         display: inline-block;
         width: 94%;
      }
     
+    .box-details {
+        width: 100%;
+    }
+        
+     
     }
 
     /*For small screen sizes below 450px*/
 
     @media screen and (max-width:450px) {
+
+        .container {
+            width: auto;
+            height: auto;
+            font-size: 1.6rem;
+        }
+
         .box-details {
             display: inline-block;
-            width: 93%;
+            width: 100%;
         }
     }
       
@@ -297,7 +302,7 @@ footer {
 
         .box-details {
             display: inline-block;
-            width: 92%;
+            width: 100%;
         }
       }
       
@@ -307,6 +312,6 @@ footer {
 
     .box-details {
         display: inline-block;
-        width: 90%;
+        width: 100%;
     }
 }
