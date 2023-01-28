@@ -8,7 +8,42 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 
 ![Mockup](https:/workspace/bayside-bistro/assets/images/mockup.png)
 
+
+
+## **User Experience**
 ---
+### First time Visitor Goals:
+  1. As a First Time Visitor, I want to learn more about the restaurant.
+  1. As a First Time Visitor, I want to easily navigate around the site to easily find content relevant to my search.
+  1. As a First Time Visitor I want to be able to find their social media to determine what other users think of them.
+
+### Returning Visitor Goals:
+  1. As a Returning Visitor I want to easily find information about opening times and a reminder of location if I am a person on holidays.
+  1. As a Returning Visitor I want to know how can I get in touch with the business.
+
+### Design
+
+* Color Scheme
+  * The main colours used are white and 3 shades of blue.
+
+* Typography
+  * For the name **Bayside Bistro** Lobster font was used with the fallback font of Sans Serif, for the main text throught the website Roboto was used with a fallback to Sans Serif.
+
+* Imagery
+  * The restaurant image is there to inform the user about how the restaurant looks out the front to find it easier.
+  * The background image on the menu page is meant to symbolize the homemade food served there.
+
+* Wireframes - from the planning process of makint the website. Finished project is slightly different, but not by much.
+  * Home Page Wireframe -
+   ![View](https:/workspace/bayside-bistro/assets/images/home-wireframe.png)
+
+  * Menu Wireframe -
+  ![View][def]
+
+  * Contact Us page Wireframe -
+  ![View](https:/workspace/bayside-bistro/assets/images/contact-us-wireframe.png)
+
+    
 ## **Features**
 ---
 ### Existing Features
@@ -60,9 +95,12 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 * Page linking to local producers which produce is used in the restaurant
 
 
-## Testing
+## **Testing**
 ---
 
 
     
 
+
+
+[def]: https:/workspace/bayside-bistro/assets/images/menu-wireframe.png
