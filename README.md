@@ -6,7 +6,7 @@ This project- **Bayside Bistro**, is a restaurant website ment to promote a fami
 The targent audience for the website is local population and visitors coming to the island the summer months. 
 It is designed to be responive and easy to accsess on a range of devices, to make it easy to view for potential visitors.
 
-![Mockup](/workspace/bayside-bistro/assets/images/mockup.png)
+![Mockup](https:github/jjanczynska/workspace/bayside-bistro/assets/images/mockup.png)
 
 
 
