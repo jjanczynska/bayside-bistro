@@ -38,7 +38,7 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
    ![View](https:/workspace/bayside-bistro/assets/images/home-wireframe.png)
 
   * Menu Wireframe -
-  ![View][def]
+  ![View](https:/workspace/bayside-bistro/assets/images/menu-wireframe.png)
 
   * Contact Us page Wireframe -
   ![View](https:/workspace/bayside-bistro/assets/images/contact-us-wireframe.png)
@@ -94,13 +94,38 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 * A gallery for the restaurant
 * Page linking to local producers which produce is used in the restaurant
 
+## **Technologies Used**
+---
+
+### Languages Used
+
+  * [HTML5](https://codeinstitute.net/ie/blog/understanding-basics-html5-getting-started-html5/)
+  * [CSS3](https://codeinstitute.net/ie/blog/what-is-css-and-why-should-i-learn-it/)
+
+### Libraries and Programs Used
+
+1. Hover.css:
+   * Hover.css was used on the website navigation bar and on Contact, Opening times and Location section on the home page of the website
+1. Google Fonts:
+   * Google fonts were used to import the font info into the style.css file and its used on all 3 pages of the website.
+1. Font Awesome:
+   * Font Awesome was used on all 3 pages of the website to add social media icons in the footer.
+1. Git:
+   * Git was used was used by inputing the code in Gitpod terminal to add, commit and Push to GitHub.
+1. GitHub:
+   * GitHub is used to store the project.
+1. Balsamiq:
+   * Balsamiq was used to create the wireframes during the design process.
+1. Photoshop:
+   * Photoshop was used to resize images and edit photos.
 
 ## **Testing**
 ---
+
+
 
 
     
 
 
 
-[def]: https:/workspace/bayside-bistro/assets/images/menu-wireframe.png
