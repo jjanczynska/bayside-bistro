@@ -135,6 +135,52 @@ Each page was tested through Google Lighthouse. all scores were in the 90s.
 
 TO BE DETERMINED- SECTION NOT FINISHED
 
+## **Deployment**
+---
+### GitHub Pages 
+
+The project was deployed to GitHub Pages using the following steps:
+  1. Log into GitHub and locate the [GitHub Repository](https://github.com/) 
+  1. Locate the *Settings* Button on the menu.
+  1. In Code and Automation section click on *Pages*.
+  1. In GitHub Pages near the top of the page you will find a link to the *deployed website*.
+  
+ # Credits
+  ---
+
+  ## Content 
+
+  All content except of that mentioned below was written by the developer.
+
+ * The default code for border and margin were taken from **Love Running** page tutorial.
+  * The default code in the body element for max-with, with margin-left, margin-right, padding-left, padding-right was provided by my mentor to show me how it makes website more responsive.
+  * Idea for implementation of *input* forms and *submit* buttons was taken from *Coders Coffeehouse* walkthrough project from **Code Institute**.
+  * The footer navigation bar sections of the code and idea came from *Love Running* page tutorial.
+  * Throught the project I was relying on Stack Overflow, Google and book by Mike McGrath- "HTML, CSS & JavaScript in easy steps" to help me solve the problems that I have encountered.
+
+### Media
+
+  * The icons in the footer were taken from **Font Awesome**
+  * The background image on the Menu page was downloaded from [Pexels](https://www.pexels.com/photo/person-making-dough-784633/) as a free resource.
+
+  ## Acknowledgement
+  ---
+
+  * I would like to thank my Mentor Spencer for the support, usefull tips and feedback.
+  * Thank you to my group facilitator Irene for helping me with an annoying GitHub subscription issue. 
+
+
+  
+
+    
+
+
+  
+
+
+
+
+
 
 
 
