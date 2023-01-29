@@ -168,7 +168,9 @@ input:focus {
     border-radius: 2rem;
 }
 
-
+textarea:focus {
+    background: rgb(231, 195, 14);
+}
 
 /* social media links and footer */
 
