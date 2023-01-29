@@ -157,6 +157,10 @@ h2 {
     background-color: rgb(161, 216, 216);
 }
 
+input:focus {
+    background: rgb(231, 195, 14);
+}
+
 .button {
     background-color: rgb(1, 24, 42);
     color: rgb(255, 183, 3);
