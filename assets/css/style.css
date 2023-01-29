@@ -109,11 +109,19 @@ header {
     letter-spacing: 0.2rem;
 }
 
+.info:hover {
+    color: #000;
+  }
+
 .info a {
 
     color: rgb(255, 183, 3);
     text-decoration: none;
 }
+
+.info:hover a {
+    color: black;
+  }
 
 footer {
     width: 100%;
