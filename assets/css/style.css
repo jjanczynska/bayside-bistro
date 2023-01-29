@@ -6,6 +6,14 @@
     border: none;
 }
 
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;    
+    overflow-y: visible;
+    max-width: 100% ;
+    display: flex;
+}
+
 body {
     font-family: Roboto, sans-serif;
     font-weight: bold;
