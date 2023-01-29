@@ -122,14 +122,15 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 ## **Testing**
 ---
 
-The W3C Markup Validator and W£C CSS Validator were used to validate all pages of the project to ensure that there were no syntax errors.
+The W3C Markup Validator and W3C CSS Validator were used to validate all pages of the project to ensure that there were no syntax errors.
 
-Each page was tested through Google Lighthouse. all scores were in the 90s.
+Each page was tested through Google Lighthouse. 
 
-* The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-* The Website was viewed on different devices such as Desktop, Laptop and Mobile Phones
+* The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Mozilla and Safari browsers.
+* The Website was viewed on different devices such as Desktop, Laptop and Mobile Phones.
 * Manual testing was conducted to ensure that pages were linked correctly and navigation links are working well.
 * Friend and family were asked about their user experience.
+* For comprehensive testing on varied devices [Browser Stack Symulator](https://www.browserstack.com/) was used.
 
 ### Known Bugs
 
