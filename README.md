@@ -122,8 +122,9 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 ---
 
 The W3C Markup Validator and W3C CSS Validator were used to validate all pages of the project to ensure that there were no syntax errors.
+There are no errors found in HTML and CSS code.
 
-Each page was tested through Google Lighthouse. 
+Page was tested through Google Lighthouse. [Lighthouse score](assets/images/lighthouse-report.png)
 
 * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Mozilla and Safari browsers.
 * The Website was viewed on different devices such as Desktop, Laptop and Mobile Phones.
@@ -133,7 +134,9 @@ Each page was tested through Google Lighthouse.
 
 ### Known Bugs
 
-TO BE DETERMINED- SECTION NOT FINISHED
+* While displayed on mobile phone page slightly wobbles if a person moves it from side to side about 5 milimeters to the right.
+* Below 950px max width restaurant name in the heading gets pushed up.
+
 
 ## **Deployment**
 ---
@@ -153,7 +156,7 @@ The project was deployed to GitHub Pages using the following steps:
   All content except of that mentioned below was written by the developer.
 
  * The default code for border and margin were taken from **Love Running** page tutorial.
-  * The default code in the body element for max-with, with margin-left, margin-right, padding-left, padding-right was provided by my mentor to show me how it makes website more responsive.
+  * The default code in the body element for max-with, margin and padding was provided by my mentor to show me how it makes website more responsive.
   * Idea for implementation of *input* forms and *submit* buttons was taken from *Coders Coffeehouse* walkthrough project from **Code Institute**.
   * The footer navigation bar sections of the code and idea came from *Love Running* page tutorial.
   * Throught the project I was relying on Stack Overflow, Google and book by Mike McGrath- "HTML, CSS & JavaScript in easy steps" to help me solve the problems that I have encountered.
