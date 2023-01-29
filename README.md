@@ -91,7 +91,7 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 ### Features left to implement
 
 * A gallery for the restaurant
-* Page linking to local producers which produce is used in the restaurant
+* Page linking to local producers whose produce is used in the restaurant
 
 ## **Technologies Used**
 ---
