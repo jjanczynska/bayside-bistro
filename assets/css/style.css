@@ -12,11 +12,9 @@ body {
     color: rgb(28, 74, 109);
     max-width: 1140px;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
     background-color: white;
+    padding:0 15px;
+    margin: 0 auto;
 }
 
 /* header elements*/
