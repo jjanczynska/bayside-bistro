@@ -6,7 +6,7 @@ This project- **Bayside Bistro**, is a restaurant website ment to promote a fami
 The targent audience for the website is local population and visitors coming to the island the summer months. 
 It is designed to be responive and easy to accsess on a range of devices, to make it easy to view for potential visitors.
 
-![Mockup](https:/workspace/bayside-bistro/assets/images/mockup-responsive.png)
+![Mockup](assets/images/mockup-responsive.png)
 
 
 ## **User Experience**
@@ -34,13 +34,13 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 
 * Wireframes - from the planning process of makint the website. Finished project is slightly different, but not by much.
   * Home Page Wireframe -
-   ![View](https:/workspace/bayside-bistro/assets/images/home-wireframe.png)
+   ![View](assets/images/home-wireframe.png)
 
   * Menu Wireframe -
-  ![View](https:/workspace/bayside-bistro/assets/images/menu-wireframe.png)
+  ![View](assets/images/menu-wireframe.png)
 
   * Contact Us page Wireframe -
-  ![View](https:/workspace/bayside-bistro/assets/images/contact-us-wireframe.png)
+  ![View](assets/images/contact-us-wireframe.png)
 
     
 ## **Features**
@@ -52,17 +52,17 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
   * Featured on all three pages, the responive navigation bar includes links to the _Home_, _Menu_ and _Contact Us_ page to allow for easy navigation.
   * This section allows for easy navigation of the page instead of using "back" button".
 
-  ![Nav-bar](https:/workspace/bayside-bistro/assets/images/nav-bar.png)
+  ![Nav-bar](assets/images/nav-bar.png)
 
  * The landing page image
 
    * The landing includes a photograph of the actuall restaurant for easy identification by potential customers.
 
-![Restaurant picture](https:/workspace/bayside-bistro/assets/images/bistro.jpg)
+![Restaurant picture](assets/images/bistro.jpg)
 
 * Restaurant profile description is supposed to inform viwers about the type of cusine the restaurant is serving, who runs it and where is it located.
 
-![Info about the restaurant](https:/workspace/bayside-bistro/assets/images/description.png)
+![Info about the restaurant](assets/images/description.png)
 
 
 * Information about contact, location and opening times.
@@ -74,13 +74,13 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
   * The footer section links to social media sites for Bayside Bistro. This links will open in a new tab to allow for easy navigation.
   * The footers is ment to encourage the user to connect through social media.
 
-![The footer](https:/workspace/bayside-bistro/assets/images/social-media-footer.png)
+![The footer](assets/images/social-media-footer.png)
 
 * Menu 
 
   * Menu page introduces users to a food and drink served at the restaurant.
 
-![Menu](https:/workspace/bayside-bistro/assets/images/menu.png)
+![Menu](assets/images/menu.png)
 
 * Contact Us section
 
