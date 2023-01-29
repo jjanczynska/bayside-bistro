@@ -124,7 +124,7 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 The W3C Markup Validator and W3C CSS Validator were used to validate all pages of the project to ensure that there were no syntax errors.
 There are no errors found in HTML and CSS code.
 
-Page was tested through Google Lighthouse. [Lighthouse score](assets/images/lighthouse-report.png)
+Page was tested through Google Lighthouse. ![Lighthouse score](assets/images/lighthouse-report.png)
 
 * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Mozilla and Safari browsers.
 * The Website was viewed on different devices such as Desktop, Laptop and Mobile Phones.
