@@ -75,6 +75,18 @@ header {
 
 }
 
+.bistro-mirror {
+    width: 100%;
+    height: auto;
+}
+
+.bistro-mirror img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: inline-block;
+}
+
 .description {
     display: inline-block;
     font-size: 2rem;
