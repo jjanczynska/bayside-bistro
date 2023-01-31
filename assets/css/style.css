@@ -110,7 +110,7 @@ header {
 }
 
 .info:hover {
-    color: #000;
+    color: rgb(1, 24, 42);
   }
 
 .info a {
@@ -120,7 +120,7 @@ header {
 }
 
 .info:hover a {
-    color: black;
+    color: rgb(1, 24, 42);
   }
 
 footer {
