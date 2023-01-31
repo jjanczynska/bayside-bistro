@@ -23,7 +23,7 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 ### Design
 
 * Color Scheme
-  * The main colours used are white and 3 shades of blue.
+  * The main colours used are white, 3 shades of blue and some yellow elements.
 
 * Typography
   * For the name **Bayside Bistro** Lobster font was used with the fallback font of Sans Serif, for the main text throught the website Roboto was used with a fallback to Sans Serif.
@@ -56,7 +56,7 @@ It is designed to be responive and easy to accsess on a range of devices, to mak
 
  * The landing page image
 
-   * The landing includes a photograph of the actuall restaurant for easy identification by potential customers.
+   * The landing includes a photograph of the actual restaurant for easy identification by potential customers.
 
 ![Restaurant picture](assets/images/bistro.jpg)
 
@@ -134,7 +134,7 @@ Page was tested through Google Lighthouse. ![Lighthouse score](assets/images/lig
 
 ### Known Bugs
 
-* While displayed on mobile phone page slightly wobbles if a person moves it from side to side about 5 milimeters to the right.
+* While displayed on mobile phone page slightly wobbles if a person moves it from side to side about 2 milimeters.
 * Below 950px max width restaurant name in the heading gets pushed up.
 
 
@@ -158,7 +158,7 @@ The project was deployed to GitHub Pages using the following steps:
  * The default code for border and margin were taken from **Love Running** page tutorial.
   * The default code in the body element for max-with, margin and padding was provided by my mentor to show me how it makes website more responsive.
   * Idea for implementation of *input* forms and *submit* buttons was taken from *Coders Coffeehouse* walkthrough project from **Code Institute**.
-  * The footer navigation bar sections of the code and idea came from *Love Running* page tutorial.
+  * The footer navigation bar idea came from *Love Running* page tutorial.
   * Throught the project I was relying on Stack Overflow, Google and book by Mike McGrath- "HTML, CSS & JavaScript in easy steps" to help me solve the problems that I have encountered.
 
 ### Media
