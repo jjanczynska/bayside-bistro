@@ -160,11 +160,42 @@ h2 {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: rgb(1, 24, 42);
+    font-size: 1.7rem;
     background-color: rgb(161, 216, 216);
 }
 
+input[type=text] {
+    border: 0.2rem solid rgb(1, 24, 42);
+    width: 10rem;
+    height: 2rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
+
+}
+
+input[type=email] {
+    border: 0.2rem solid rgb(28, 74, 109);
+    width: 10rem;
+    height: 2rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
+}
+
 input:focus {
-    background: rgb(231, 195, 14);
+    background: rgb(255, 183, 3);
+}
+
+textarea {
+    width: auto;
+    height: auto;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    border: 0.2rem solid rgb(3, 69, 120);
+}
+
+label {
+    color: rgb(1, 24, 42);
+    font-size: 1.6rem;
 }
 
 .button {
