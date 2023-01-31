@@ -227,7 +227,7 @@ footer {
 .social-media i {
 
     font-size: 3rem;
-    padding: 2.5%;
+    padding: 4%;
     color: rgb(255, 183, 3);
 }
 
@@ -313,16 +313,13 @@ footer {
 
     .box-details  {
         display: inline-block;
-        width: 94%;
-     }
-    
-    .box-details {
         width: 100%;
-    }
+     }
 
-        
-     
+     .social-media i {
+        padding: 6%;
     }
+}
 
     /*For small screen sizes below 450px*/
 
