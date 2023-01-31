@@ -2,10 +2,10 @@
 
 # Bayside Bistro 
 
-This project- **Bayside Bistro**, is a restaurant website ment to promote a family run restaurant on Achill Island.
-The targent audience for the website is local population and visitors coming to the island the summer months. 
+This project- **Bayside Bistro**, is a restaurant website meant to promote a family run restaurant on Achill Island.
+The targent audience for the website is local population and visitors coming to the island in the summer months. 
 It is designed to be responive and easy to accsess on a range of devices, to make it easy to view for potential visitors.
-
+The actual restaurant exsisted between 2011 and 2019.
 ![Mockup](assets/images/mockup-responsive.png)
 
 
@@ -165,6 +165,7 @@ The project was deployed to GitHub Pages using the following steps:
 
   * The icons in the footer were taken from **Font Awesome**
   * The background image on the Menu page was downloaded from [Pexels](https://www.pexels.com/photo/person-making-dough-784633/) as a free resource.
+  * Two main restaurant pictures are taken by the author.
 
   ## Acknowledgement
   ---
